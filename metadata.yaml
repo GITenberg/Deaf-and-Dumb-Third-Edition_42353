@@ -1,0 +1,38 @@
+_repo: Deaf-and-Dumb-Third-Edition_42353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sandham, Elizabeth
+    gutenberg_agent_id: '41484'
+    url: http://www.gutenberg.org/2009/agents/41484
+description: In this gripping account, author Elizabeth Sandham sheds light on the
+  often undesirable circumstances in which disabled children were raised in the early
+  nineteenth century. Those who were lucky enough to be accepted into an asylum received
+  some treatment, but those who remained at home often received minimal care and in
+  some instances were treated poorly and subjected to abuse. This early tale of advocacy
+  serves as powerful testimony in favor of fair treatment for children with special
+  needs.
+gutenberg_issued: '2013-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deaf -- Education -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Deaf children -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: 'Deaf and Dumb!
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/42353
